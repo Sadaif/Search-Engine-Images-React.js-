@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.Search{
+  text-align: center;
+   
+}
+.Data{
+   inline-size: 20%;
+}
+.Image{
+  padding: 0em;
+  width: 30%;
+ margin-left: 35%;
+}
